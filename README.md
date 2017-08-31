@@ -12,4 +12,4 @@ OpenMessaging, which includes the establishment of industry guidelines and messa
 [API Doc](https://openmessaging.github.io/openmessaging-cloud/).
 
 
-## Powered by Linux Foundation
+### Hosted at The Linux Foundation
